@@ -1,7 +1,7 @@
 # Reactive Area App
 
 This application is an easy-to-use and user-friendly project management software that will help you significantly increase the efficiency of your team at work.
-![Reactive Area App](https://user-images.githubusercontent.com/85354736/187641164-713bb023-f3a6-4ad9-bc5a-c85570dfef88.png)
+![Reactive](https://user-images.githubusercontent.com/89705439/189400875-62633003-0135-4364-a5bb-499528789d5e.jpg)
 
 #### Features
 
